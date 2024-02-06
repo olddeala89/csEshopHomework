@@ -1,0 +1,15 @@
+C:\Work\Code\RiderProjects\EShop\bin\Debug\net7.0\EShop.exe
+C:\Work\Code\RiderProjects\EShop\bin\Debug\net7.0\EShop.deps.json
+C:\Work\Code\RiderProjects\EShop\bin\Debug\net7.0\EShop.runtimeconfig.json
+C:\Work\Code\RiderProjects\EShop\bin\Debug\net7.0\EShop.dll
+C:\Work\Code\RiderProjects\EShop\bin\Debug\net7.0\EShop.pdb
+C:\Work\Code\RiderProjects\EShop\obj\Debug\net7.0\EShop.csproj.AssemblyReference.cache
+C:\Work\Code\RiderProjects\EShop\obj\Debug\net7.0\EShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Code\RiderProjects\EShop\obj\Debug\net7.0\EShop.AssemblyInfoInputs.cache
+C:\Work\Code\RiderProjects\EShop\obj\Debug\net7.0\EShop.AssemblyInfo.cs
+C:\Work\Code\RiderProjects\EShop\obj\Debug\net7.0\EShop.csproj.CoreCompileInputs.cache
+C:\Work\Code\RiderProjects\EShop\obj\Debug\net7.0\EShop.dll
+C:\Work\Code\RiderProjects\EShop\obj\Debug\net7.0\refint\EShop.dll
+C:\Work\Code\RiderProjects\EShop\obj\Debug\net7.0\EShop.pdb
+C:\Work\Code\RiderProjects\EShop\obj\Debug\net7.0\EShop.genruntimeconfig.cache
+C:\Work\Code\RiderProjects\EShop\obj\Debug\net7.0\ref\EShop.dll
